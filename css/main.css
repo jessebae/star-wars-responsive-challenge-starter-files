@@ -1,0 +1,30 @@
+body {
+	/* margin:0;   Deleted due to NORMALIZE
+	   padding:0; */
+	width:100%;
+}
+header {
+	background-color: #eebb44;
+  	margin-bottom: 40px;
+	/* bbackground-color:rgb(223,190,52); */
+}
+header h1 {
+	margin-bottom: 10px;
+}
+.outline {
+	border: 1px solid #aaa;
+	border-radius:1px;
+	text-align: left;
+	margin-bottom: 15px;
+}
+.char-pic {
+	width:100%;
+	text-align: center;
+	padding:0;
+}
+.title {
+	padding:22px;
+}
+.title, caption {
+	margin-bottom: 12px 5px;
+}
